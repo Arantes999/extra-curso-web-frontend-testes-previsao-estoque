@@ -1,4 +1,5 @@
 // Lista de produtos na loja
+
 const loja = [];
 
 // Cria um novo produto
@@ -70,7 +71,7 @@ const produto2 = criarProduto("Shampoo", 50, 2);
 // Adicionar na loja
 adicionarProdutoNaLoja(produto1);
 adicionarProdutoNaLoja(produto2);
-                                                                                                
+
 // Simular 30 dias de vendas
 simularVendasNaLoja();
 
